@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nagoya-muscle-club.choicesun17.chatgpt.site/sitemap.xml
